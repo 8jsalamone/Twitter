@@ -1,6 +1,10 @@
 body{
     background-color: #c0deed;
 }
+img.profilepicture{
+      width: 60px
+      height: 60px
+}
 main#feed{
     width:800px;
     height:2000px;
